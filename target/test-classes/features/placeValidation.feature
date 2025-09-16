@@ -10,3 +10,4 @@ Example:
 |English	|BAM|
 |Odia		|BBSR|
 |Hindi		|Pune|
+|Kanada|Bengaluru|
