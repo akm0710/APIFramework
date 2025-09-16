@@ -9,3 +9,5 @@ Example:
 |language	|address|
 |English	|BAM|
 |Odia		|BBSR|
+|Hindi		|Pune|
+|Kanada|Bengaluru|
