@@ -11,3 +11,4 @@ Example:
 |Odia		|BBSR|
 |Hindi		|Pune|
 |Kanada|Bengaluru|
+Added in Lipika Branch
