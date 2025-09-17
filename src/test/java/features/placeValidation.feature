@@ -12,3 +12,4 @@ Example:
 |Hindi		|Pune|
 |Kanada|Bengaluru|
 Wednesday
+Added in Lipika Branch
